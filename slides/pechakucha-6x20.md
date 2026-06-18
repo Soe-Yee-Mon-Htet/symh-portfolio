@@ -2,77 +2,79 @@
 
 marp: true
 paginate: true
+transition: fade
 auto-advance: 20
-----------------
 
-# Slide 1
+# PechaKucha: 6 slides, 20s auto-advance. Do not change the count.
 
-# Introduction
+<!-- slide 1 -->
+
+# Who am I?
+
+<!-- 20s -->
 
 ## SYMH Portfolio Project
 
-* Name: Soe Yee Mon Htet
+* Soe Yee Mon Htet
 * Aspiring Frontend Developer
-* Built with React + Vite + Tailwind CSS
-* Goal: Showcase skills and projects
+* Built with React, Vite, and Tailwind CSS
+* Goal: Showcase my skills and projects
 
 ---
 
-# Slide 2
+<!-- slide 2 -->
 
-# Project Features
+# The Problem
 
-* Responsive design
-* Modern user interface
-* Smooth scrolling navigation
+* Need a personal website to present myself
+* Need a place to showcase projects and skills
+* Need a responsive design for all devices
+* Need a maintainable and modern codebase
+
+---
+
+<!-- slide 3 -->
+
+# What I Built
+
+* Responsive portfolio website
+* Navbar and Hero section
+* About, Skills, Projects, and Contact sections
 * Reusable React components
-* Mobile and desktop friendly
+* Modern UI with Tailwind CSS
 
 ---
 
-# Slide 3
+<!-- slide 4 -->
 
-# Project Structure
+# How I Built It
 
-* Components folder
-* Sections folder
-* Data folder
-* Assets folder
-* Clean and maintainable architecture
-
----
-
-# Slide 4
-
-# Claude Code Workflow
-
-* Skill: Portfolio Skill
-* Agent: UI Designer Agent
-* MCP configuration
-* AI-assisted development
-* Faster coding and organization
+* MCP: Configured via `.mcp.json`
+* Skill: `portfolio/SKILL.md`
+* Agent: `ui-designer.md`
+* React + Vite + Tailwind CSS v4
+* Claude Code assisted development
 
 ---
 
-# Slide 5
+<!-- slide 5 -->
 
-# Technologies Used
+# Why It Matters
 
-* React
-* Vite
-* Tailwind CSS v4
-* JavaScript
-* Git and GitHub
+* Showcases my frontend skills
+* Demonstrates project-based learning
+* Provides a professional online presence
+* Easy to extend and maintain
+* Supports future career opportunities
 
 ---
 
-# Slide 6
+<!-- slide 6 -->
 
-# Future Improvements
+# Done Checklist
 
-* Dark mode
-* More projects
-* Better animations
-* Deployment with Vercel
-* Continuous learning and growth
-
+* [x] Portfolio repository created
+* [x] MCP + Skill + Agent used
+* [x] Marp slides created
+* [x] report.md submitted to team repo
+* [x] Project pushed to GitHub
