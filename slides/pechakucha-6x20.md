@@ -7,13 +7,14 @@ auto-advance: 20
 
 # PechaKucha: 6 slides, 20s auto-advance. Do not change the count.
 
+---
 <!-- slide 1 -->
 
 # Who am I?
 
 <!-- 20s -->
 
-## SYMH Portfolio Project
+## Portfolio Project
 
 * Soe Yee Mon Htet
 * Aspiring Frontend Developer
